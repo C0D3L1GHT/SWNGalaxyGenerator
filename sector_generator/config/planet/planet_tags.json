@@ -84,217 +84,217 @@
 	"title":"Bubble Cities",
 	"description":"Whether due to a lack of atmosphere or an uninhabitable climate, the world’s cities exist within domes or pressurized buildings. In such sealed environments, techniques of surveillance and control can grow baroque and extreme.",
 	"enemies":["Native dreading outsider contamination","Saboteur from another bubble city","Local official hostile to outsider ignorance of laws"],
-	"friends":["Local rebel against the city officials"," Maintenance chief in need of help"," Surveyor seeking new building sites"],
+	"friends":["Local rebel against the city officials","Maintenance chief in need of help","Surveyor seeking new building sites"],
 	"complications":["Bubble rupture","Failing atmosphere reprocessor","Native revolt against officials","All-seeing surveillance cameras"],
 	"things":["Pretech habitat technology","Valuable industrial products","Master key codes to a city’s security system"],
 	"places":["City power core","Surface of the bubble","Hydroponics complex","Warren-like hab block"]
 ],
 "tag":[
 	"title":"Cheap Life",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"Human life is near-worthless on this world. Ubiquitous cloning, local conditions that ensure early death, a culture that reveres murder, or a social structure that utterly discounts the value of most human lives ensures that death is the likely outcome for any action that irritates someone consequential.",
+	"enemies":["Master assassin","Bloody-handed judge","Overseer of disposable clones"],
+	"friends":["Endearing local whose life the PCs accidentally bought","Escapee from death seeking outside help","Reformer trying to change local mores"],
+	"complications":["Radiation or local diseases ensure all locals die before twenty-five years of age","Tech ensures that death is just an annoyance","Locals are totally convinced of a blissful afterlife"],
+	"things":["Device that revives or re-embodies the dead","Maltech engine fueled by human life","Priceless treasure held by a now-dead owner"],
+	"places":["Thronging execution ground","extremely cursory cemetery","Factory full of lethal dangers that could be corrected easily"]
 ],
 "tag":[
 	"title":"Civil War",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The world is currently torn between at least two opposing factions, all of which claim legitimacy. The war may be the result of a successful rebel uprising against tyranny, or it might just be the result of schemers who plan to be the new masters once the revolution is complete.",
+	"enemies":["Faction commissar","Angry native","Conspiracy theorist who blames offworlders for the war","Deserter looking out for himself","Guerrilla bandit chieftain"],
+	"friends":["Faction loyalist seeking aid","Native caught in the crossfire","Offworlder seeking passage off the planet"],
+	"complications":["The front rolls over the group","Famine strikes","Bandit infestations are in the way"],
+	"things":["Ammo dump","Military cache","Treasure buried for after the war","Secret war plans"],
+	"places":["Battle front","Bombed-out town","Rear-area red light zone","Propaganda broadcast tower"]
 ],
 "tag":[
 	"title":"Cold War",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"Two or more great powers control the planet, and they have a hostility to each other that’s just barely less than open warfare. The hostility might be ideological in nature, or it might revolve around control of some local resource.",
+	"enemies":["Suspicious chief of intelligence","Native who thinks the outworlders are with the other side","Femme fatale"],
+	"friends":["Apolitical information broker","Spy for the other side","Unjustly accused innocent","'He’s a bastard, but he’s our bastard' official"],
+	"complications":["Police sweep","Low-level skirmishing","'Red scare'"],
+	"things":["List of traitors in government","Secret military plans","Huge cache of weapons built up in preparation for war"],
+	"places":["Seedy bar in a neutral area","Political rally","Isolated area where fighting is underway"]
 ],
 "tag":[
 	"title":"Colonized Population",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"A neighboring world has successfully colonized this less-advanced or less-organized planet, and the natives aren’t happy about it. A puppet government may exist, but all real decisions are made by the local viceroy.",
+	"enemies":["Suspicious security personnel","Offworlder-hating natives","Local crime boss preying on rich offworlders"],
+	"friends":["Native resistance leader","Colonial official seeking help","Native caught between the two sides"],
+	"complications":["Natives won’t talk to offworlders","Colonial repression","Misunderstood local customs"],
+	"things":["Relic of the resistance movement","List of collaborators","Precious substance extracted by colonial labor"],
+	"places":["Deep wilderness resistance camp","City district off-limits to natives","Colonial labor site"]
 ],
 "tag":[
 	"title":"Cultural Power",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The world is a considerable cultural power in the sector, producing music, art, philosophy, or some similar intangible that their neighbors find irresistibly attractive. Other worlds might have a profound degree of cultural cachet as the inheritor of some venerable artistic tradition.",
+	"enemies":["Murderously eccentric artist","Crazed fan","Failed artist with an obsessive grudge","Critic with a crusade to enact"],
+	"friends":["Struggling young artist","Pupil of the artistic tradition","Scholar of the art","Offworlder hating the source of corrupting alien ways"],
+	"complications":["The art is slowly lethal to its masters","The art is mentally or physically addictive","The art is a fragment of ancient technical or military science"],
+	"things":["The instrument of a legendary master","The only copy of a dead master’s opus","Proof of intellectual property ownership"],
+	"places":["Recording or performance studio","Public festival choked with tourists","Monument to a dead master of the art"]
 ],
 "tag":[
 	"title":"Cybercommunists",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"On this world communism actually works, thanks to pretech computing devices and greater or lesser amounts of psychic precognition. Central planning nodes direct all production and employment on the world. Citizens in good standing have access to ample amounts of material goods for all needs and many wants. Instead of strife over wealth, conflicts erupt over political controls, cultural precepts, or control over the planning nodes. Many cybercommunist worlds show a considerable bias toward the private interests of those who run the planning nodes.",
+	"enemies":["Embittered rebel against perceived unfairness","Offworlder saboteur","Aspiring Stalin-figure"],
+	"friends":["Idealistic planning node tech","Cynical anti-corruption cop","Precognitive economist"],
+	"complications":["The pretech planning computers are breaking down","The planning only works because the locals have been mentally or physically altered","The planning computers can’t handle the increasing population within the system"],
+	"things":["Planning node computer","Wildly destabilizing commodity that can’t be factored into plans","A tremendous store of valuables made by accident"],
+	"places":["Humming factory","Apartment block of perfectly equal flats","Mass demonstration of unity"]
 ],
 "tag":[
 	"title":"Cyborgs",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The planet’s population makes heavy use of cybernetics, with many of the inhabitants possessing at least a cosmetic amount of chrome. This may be the result of a strong local cyber tech base, a religious injunction, or simply a necessary measure to survive the local conditions.",
+	"enemies":["Ambitious hacker of cyber implants","Cybertech oligarch","Researcher craving fresh offworlders","Cybered-up gang boss"],
+	"friends":["Charity-working implant physician","Idealistic young cyber researcher","Avant-garde activist"],
+	"complications":["The powerful and dangerous come here often for cutting-edge implants","The cyber has some universal negative side-effect","Cyber and those implanted with it are forbidden to leave the planet as a tech security measure"],
+	"things":["Unique prototype cyber implant","Secret research files","A virus that debilitates cyborgs","A cache of critically-needed therapeutic cyber"],
+	"places":["Grimy slum chop-shop","Bloody lair of implant rippers","Stark plaza where everyone is seeing things through their augmented-reality cyber"]
 ],
 "tag":[
 	"title":"Cyclical Doom",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The world regularly suffers some apocalyptic catastrophe that wipes out organized civilization on it. The local culture is aware of this cycle and has traditions to ensure a fragment of civilization survives into the next era, but these traditions don’t always work properly, and sometimes dangerous fragments of the past emerge.",
+	"enemies":["Offworlder seeking to trigger the apocalypse early for profit","Local recklessly taking advantage of preparation stores","Demagogue claiming the cycle is merely a myth of the authorities"],
+	"friends":["Harried official working to prepare","Offworlder studying the cycles","Local threatened by perils of the cycle’s initial stages"],
+	"complications":["The cycles really are a myth of the authorities","The cycles are controlled by alien constructs","An outside power is interfering with preparation"],
+	"things":["A lost cache of ancient treasures","Tech or archives that will pinpoint the cycle’s timing","Keycodes to bypass an ancient vault’s security"],
+	"places":["Lethally-defended vault of forgotten secrets","Starport crowded with panicked refugees","Town existing in the shadow of some monstrous monument to a former upheaval"]
 ],
 "tag":[
 	"title":"Desert World",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The world may have a breathable atmosphere and a human-tolerable temperature range, but it is an arid, stony waste outside of a few places made habitable by human effort. The deep wastes are largely unexplored and inhabited by outcasts and worse.",
+	"enemies":["Raider chieftain","Crazed hermit","Angry isolationists","Paranoid mineral prospector","Strange desert beast"],
+	"friends":["Native guide","Research biologist","Aspiring terraformer"],
+	"complications":["Sandstorms","Water supply failure","Native warfare over water rights"],
+	"things":["Enormous water reservoir","Map of hidden wells","Pretech rainmaking equipment"],
+	"places":["Oasis","'The Empty Quarter' of the desert","Hidden underground cistern"]
 ],
 "tag":[
 	"title":"Doomed World",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The world is doomed, and the locals may or may not know it. Some cosmic catastrophe looms before them, and the locals have no realistic way to get everyone to safety. To the extent that the public is aware, society is disintegrating into a combination of religious fervor, abject hedonism, and savage violence.",
+	"enemies":["Crazed prophet of a false salvation","Ruthless leader seeking to flee with their treasures","Cynical ship captain selling a one-way trip into hard vacuum as escape to another world"],
+	"friends":["Appealing waif or family head seeking escape","Offworld relief coordinator","Harried law officer"],
+	"complications":["The doom is false or won’t actually kill everyone","The doom was intentionally triggered by someone","Mass escape is possible if warring groups can somehow be brought to cooperate"],
+	"things":["Clearance for a ship to leave the planet","A cache of priceless cultural artifacts","The life savings of someone trying to buy passage out","Data that would prove to the public the end is nigh"],
+	"places":["Open square beneath a sky angry with a foretaste of th impending ruin","Orgiastic celebration involving sex and murder in equal parts","Holy site full of desperate petitioners to the divine"]
 ],
 "tag":[
 	"title":"Dying Race",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The inhabitants of this world are dying out, and they know it. Through environmental toxins, hostile bio-weapons, or sheer societal despair, the culture cannot replenish its numbers. Members seek meaning in their own strange goals or peculiar faiths, though a few might struggle to find some way to reverse their slow yet inevitable doom.",
+	"enemies":["Hostile outsider who wants the locals dead","Offworlder seeking to take advantage of their weakened state","Invaders eager to push the locals out of their former lands"],
+	"friends":["One of the few youth among the population","Determined and hopeful reformer","Researcher seeking a new method of reproduction"],
+	"complications":["The dying culture’s values were monstrous","The race’s death is somehow necessary to prevent some grand catastrophe","The race is somehow convinced they deserve this fate"],
+	"things":["Extremely valuable reproductive tech","Treasured artifacts of the former age","Bioweapon used on the race"],
+	"places":["City streets devoid of pedestrians","Mighty edifice now crumbling with disrepair","Small dwelling full of people in a town now otherwise empty"]
 ],
 "tag":[
 	"title":"Eugenic Cult",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"Even in the days before the Silence, major improvement of the human genome always seemed to come with unacceptable side-effects. Some worlds host secret cults that perpetuate these improvements regardless of the cost, and a few planets have been taken over entirely by the cults.",
+	"enemies":["Eugenic superiority fanatic","Mentally unstable homo superior","Mad eugenic scientist"],
+	"friends":["Eugenic propagandist","Biotechnical investigator","Local seeking revenge on cult"],
+	"complications":["The altered cultists look human","The locals are terrified of any unusual physical appearance","The genetic modificationsand drawbacksare contagious with long exposure"],
+	"things":["Serum that induces the alteration","Elixir that reverses the alteration","Pretech biotechnical databanks","List of secret cult sympathizers"],
+	"places":["Eugenic breeding pit","Isolated settlement of altered humans","Public place infiltrated by cult sympathizers"]
 ],
 "tag":[
 	"title":"Exchange Consulate",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The Exchange of Light once served as the largest, most trusted banking and diplomatic service in human space. Even after the Silence, some worlds retain a functioning Exchange Consulate where banking services and arbitration can be arranged.",
+	"enemies":["Corrupt Exchange official","Indebted native who thinks the players are Exchange agents","Exchange official dunning the players for debts incurred"],
+	"friends":["Consul in need of offworld help","Local banker seeking to hurt his competition","Exchange diplomat"],
+	"complications":["The local Consulate has been corrupted","the Consulate is cut off from its funds","A powerful debtor refuses to pay"],
+	"things":["Exchange vault codes","Wealth hidden to conceal it from a bankruptcy judgment","Location of forgotten vault"],
+	"places":["Consulate meeting chamber","Meeting site between fractious disputants","Exchange vault"]
 ],
 "tag":[
 	"title":"Fallen Hegemon",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"At some point in the past, this world was a hegemonic power over some or all of the sector, thanks to superior tech, expert diplomacy, the weakness of their neighbors, or inherited Mandate legitimacy. Some kind of crash or revolt broke their power, however, and now the world is littered with the wreckage of former glory.",
+	"enemies":["Bitter pretender to a meaningless throne","Resentful official dreaming of empire","Vengeful offworlder seeking to punish their old rulers"],
+	"friends":["Realistic local leader trying to hold things together","Scholar of past glories","Refugee from an overthrown colonial enclave"],
+	"complications":["The hegemon’s rule was enlightened and fair","It collapsed due to its own internal strife rather than external resistance","It pretends that nothing has happened to its power","It’s been counter-colonized by vengeful outsiders"],
+	"things":["Precious insignia of former rule","Relic tech important to its power","Plundered colonial artifact"],
+	"places":["Palace far too grand for its current occupant","Oversized spaceport now in disrepair","Boulevard lined with monuments to past glories"]
 ],
 "tag":[
 	"title":"Feral World",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"In the long, isolated night of the Silence, some worlds have experienced total moral and cultural collapse. Whatever remains has been twisted beyond recognition into assorted death cults, xenophobic fanaticism, horrific cultural practices, or other behavior unacceptable on more enlightened worlds. These worlds are almost invariably quarantined by other planets.",
+	"enemies":["Decadent noble"," Mad cultist"," Xenophobic local"," Cannibal chief"," Maltech researcher"],
+	"friends":["Trapped outworlder"," Aspiring reformer"," Native wanting to avoid traditional flensing"],
+	"complications":["Horrific local “celebration”"," Inexplicable and repugnant social rules"," Taboo zones and people"],
+	"things":["Terribly misused piece of pretech"," Wealth accumulated through brutal evildoing"," Valuable possession owned by luckless outworlder victim"],
+	"places":["Atrocity amphitheater"," Traditional torture parlor"," Ordinary location twisted into something terrible."]
 ],
 "tag":[
 	"title":"Flying Cities",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"Perhaps the world is a gas giant, or plagued with unendurable storms at lower levels of the atmosphere. For whatever reason, the cities of this world fly above the surface of the planet. Perhaps they remain stationary, or perhaps they move from point to point in search of resources.",
+	"enemies":["Rival city pilot","Tech thief attempting to steal outworld gear","Saboteur or scavenger plundering the city’s tech"],
+	"friends":["Maintenance tech in need of help","City defense force pilot","Meteorological researcher"],
+	"complications":["Sudden storms","Drastic altitude loss","Rival city attacks","Vital machinery breaks down"],
+	"things":["Precious refined atmospheric gases","Pretech grav engine plans","Meteorological codex predicting future storms"],
+	"places":["Underside of the city","The one calm place on the planet’s surface","Catwalks stretching over unimaginable gulfs below."]
 ],
 "tag":[
 	"title":"Forbidden Tech",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"Some group on this planet fabricates or uses maltech. Unbraked AIs doomed to metastasize into insanity, nation-destroying nanowarfare particles, slow-burn DNA corruptives, genetically engineered slaves, or something worse still. The planet’s larger population may or may not be aware of the danger in their midst.",
+	"enemies":["Mad scientist","Maltech buyer from offworld","Security enforcer"],
+	"friends":["Victim of maltech","Perimeter agent","Investigative reporter","Conventional arms merchant"],
+	"complications":["The maltech is being fabricated by an unbraked AI","The government depends on revenue from maltech sales to offworlders","Citizens insist that it’s not really maltech"],
+	"things":["Maltech research data","The maltech itself","Precious pretech equipment used to create it"],
+	"places":["Horrific laboratory","Hellscape sculpted by the maltech’s use","Government building meeting room"]
 ],
 "tag":[
 	"title":"Former Warriors",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The locals of this world were once famed for their martial prowess. They may have simply had a very militaristic culture, or were genetically engineered for combat, or developed high-tech weaponry, or had brilliant leadership. Those days are past, however, either due to crushing defeat, external restrictions, or a cultural turn toward peace.",
+	"enemies":["Unreformed warlord leader","Bitter mercenary chief","Victim of their warfare seeking revenge"],
+	"friends":["Partisan of the new peaceful ways","Outsider desperate for military aid","Martial genius repressed by the new dispensation"],
+	"complications":["Neighboring worlds want them pacified or dead","They only ever used their arts in self-defense","The source of their gifts has been “turned off” in a reversible way"],
+	"things":["War trophy taken from a defeated foe","Key to re-activating their martial ways","Secret cache of high-tech military gear"],
+	"places":["Cemetery of dead heroes","Memorial hall now left to dust and silence","Monument plaza dedicated to the new culture"]
 ],
 "tag":[
 	"title":"Freak Geology",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The geology or geography of this world is simply freakish. Perhaps it’s composed entirely of enormous mountain ranges, or regular bands of land and sea, or the mineral structures all fragment into perfect cubes. The locals have learned to deal with it and their culture will be shaped by its requirements.",
+	"enemies":["Crank xenogeologist","Cultist who believes it the work of aliens"],
+	"friends":["Research scientist","Prospector","Artist"],
+	"complications":["Local conditions that no one remembers to tell outworlders about","Lethal weather","Seismic activity"],
+	"things":["Unique crystal formations","Hidden veins of a major precious mineral strike","Deed to a location of great natural beauty"],
+	"places":["Atop a bizarre geological formation","Tourist resort catering to offworlders"]
 ],
 "tag":[
 	"title":"Freak Weather",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The planet is plagued with some sort of bizarre or hazardous weather pattern. Perhaps city-flattening storms regularly scourge the surface, or the world’s sun never pierces its thick banks of clouds.",
+	"enemies":["Criminal using the weather as a cover","Weather cultists convinced the offworlders are responsible for some disaster","Native predators dependent on the weather"],
+	"friends":["Meteorological researcher","Holodoc crew wanting shots of the weather"],
+	"complications":["The weather itself","Malfunctioning pretech terraforming engines that cause the weather"],
+	"things":["Wind-scoured deposits of precious minerals","Holorecords of a spectacularly and rare weather pattern","Naturally-sculpted objects of intricate beauty"],
+	"places":["Eye of the storm","The one sunlit place","Terraforming control room"]
 ],
 "tag":[
 	"title":"Friendly Foe",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"Some hostile alien race or malevolent cabal has a branch or sect on this world that is actually quite friendly toward outsiders. For whatever internal reason, they are willing to negotiate and deal honestly with strangers, and appear to lack the worst impulses of their fellows.",
+	"enemies":["Driven hater of all their kind","Internal malcontent bent on creating conflict","Secret master who seeks to lure trust"],
+	"friends":["Well-meaning bug-eyed monster","Principled eugenics cultist","Suspicious investigator"],
+	"complications":["The group actually is as harmless and benevolent as they seem","The group offers a vital service at the cost of moral compromise","The group still feels bonds of affiliation with their hostile brethren"],
+	"things":["Forbidden xenotech","Eugenic biotech template","Evidence to convince others of their kind that they are right"],
+	"places":["Repurposed maltech laboratory","Alien conclave building","Widely-feared starship interior"]
 ],
 "tag":[
 	"title":"Gold Rush",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"Gold, silver, and other conventional precious minerals are common and cheap now that asteroid mining is practical for most worlds. But some minerals and compounds remain precious and rare, and this world has recently been discovered to have a supply of them. People from across the sector have come to strike it rich.",
+	"enemies":["Paranoid prospector","Aspiring mining tycoon","Rapacious merchant"],
+	"friends":["Claim-jumped miner","Native alien","Curious tourist"],
+	"complications":["The strike is a hoax","The strike is of a dangerous toxic substance","Export of the mineral is prohibited by the planetary government","The native aliens live around the strike’s location"],
+	"things":["Cases of the refined element","Pretech mining equipment","A dead prospector’s claim deed"],
+	"places":["Secret mine","Native alien village","Processing plant","Boom town"]
 ],
 "tag":[
 	"title":"Great Work",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The locals are obsessed with completing a massive  project, one that has consumed them for generations. It might be the completion of a functioning  spaceyard, a massive solar power array, a network of terraforming engines, or the universal conversion of their neighbors to their own faith. The purpose of their entire civilization is to progress and some day complete the work.",
+	"enemies":["Local planning to sacrifice the PCs for the work","Local who thinks the PCs threaten the work","Obsessive zealot ready to destroy someone or something important to the PCs for the sake of the work"],
+	"friends":["Outsider studying the work","Local with a more temperate attitude","Supplier of work materials"],
+	"complications":["The work is totally hopeless","Different factions disagree on what the work is","An outside power is determined to thwart the work"],
+	"things":["Vital supplies for the work","Plans that have been lost","Tech that greatly speeds the work"],
+	"places":["A bustling work site","Ancestral worker housing","Local community made only semi-livable by the demands of the work"]
 ],
 "tag":[
 	"title":"Hatred",
