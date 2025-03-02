@@ -570,7 +570,7 @@
 ],
 "tag":[
 	"title":"Primitive Aliens",
-	"description":"The world is populated by a large number of sapient aliens that have yet to develop advanced technology.  The human colonists may have a friendly or hostile relationship with the aliens, but a certain intrinsic tension is likely. Small human colonies might have been enslaved or otherwise subjugated.",
+	"description":"The world is populated by a large number of sapient aliens that have yet to develop advanced technology. The human colonists may have a friendly or hostile relationship with the aliens, but a certain intrinsic tension is likely. Small human colonies might have been enslaved or otherwise subjugated.",
 	"enemies":["Hostile alien chief","Human firebrand","Dangerous local predator","Alien religious zealot"],
 	"friends":["Colonist leader","Peace-faction alien chief","Planetary frontiersman","Xenoresearcher"],
 	"complications":["The alien numbers are huge and can overwhelm the humans whenever they so choose","One group is trying to use the other to kill their political opponents","The aliens are incomprehensibly strange","One side commits an atrocity"],
@@ -624,7 +624,7 @@
 ],
 "tag":[
 	"title":"Radioactive World",
-	"description":"Whether due to a legacy of atomic warfare unhindered by nuke snuffers or a simple profusion of radioactive elements, this world glows in the dark.  Even heavy vacc suits can filter only so much of the radiation, and most natives suffer a wide variety of cancers, mutations and other illnesses without the protection of advanced medical treatments.",
+	"description":"Whether due to a legacy of atomic warfare unhindered by nuke snuffers or a simple profusion of radioactive elements, this world glows in the dark. Even heavy vacc suits can filter only so much of the radiation, and most natives suffer a wide variety of cancers, mutations and other illnesses without the protection of advanced medical treatments.",
 	"enemies":["Bitter mutant","Relic warlord","Desperate wouldbe escapee"],
 	"friends":["Reckless prospector","Offworld scavenger","Biogenetic variety seeker"],
 	"complications":["The radioactivity is steadily growing worse","The planet’s medical resources break down","The radioactivity has inexplicable effects on living creatures","The radioactivity is the product of a malfunctioning pretech manufactory."],
@@ -661,7 +661,7 @@
 "tag":[
 	"title":"Revanchists",
 	"description":"The locals formerly owned another world, or a major nation on the planet formerly owned an additional region of land. Something happened to take away this control or drive out the former rulers, and they’ve never forgotten it. The locals are obsessed with reclaiming their lost lands, and will allow no questions of practicality to interfere with their cause.",
-	"enemies":["Demagogue whipping the locals on to a hopeless war","Politician seeking to use the resentment for their own ends","Local convinced the PCs are agents of the “thieving” power","Refugee from the land bitterly demanding it be reclaimed"],
+	"enemies":["Demagogue whipping the locals on to a hopeless war","Politician seeking to use the resentment for their own ends","Local convinced the PCs are agents of the 'thieving' power","Refugee from the land bitterly demanding it be reclaimed"],
 	"friends":["Realist local clergy seeking peace","Politician trying to calm the public","Third-party diplomat trying to stamp out the fire"],
 	"complications":["The revanchists’ claim is completely just and reasonable","The land is now occupied entirely by heirs of the conquerors","Both sides have seized lands the other thinks are theirs"],
 	"things":["Stock of vital resource produced by the taken land","Relic carried out of it","Proof that the land claim is justified or unjustified"],
@@ -669,236 +669,236 @@
 ],
 "tag":[
 	"title":"Revolutionaries",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The world is convulsed by one or more bands of revolutionaries, with some nations perhaps in the grip of a current revolution. Most of these upheavals can be expected only to change the general flavor of problems in the polity, but the process of getting there usually produces a tremendous amount of suffering.",
+	"enemies":["Blood-drenched revolutionary leader","Blood-drenched secret police chief","Hostile foreign agent seeking further turmoil"],
+	"friends":["Sympathetic victim accused of revolutionary sympathies or government collaboration","Revolutionary or state agent who now repents","Agent of a neutral power that wants peace"],
+	"complications":["The revolutionaries actually do seem likely to put in better rulers","The revolutionaries are client groups that got out of hand","The revolutionaries are clearly much worse than the government","The revolutionaries have no real ideals beyond power and merely pretend to ideology"],
+	"things":["List of secret revolutionary sympathizers","Proof of rebel hypocrisy","Confiscated wealth"],
+	"places":["Festival that explodes into violence","Heavily-fortified police station","Revolutionary base hidden in the wilderness"]
 ],
 "tag":[
 	"title":"Rigid Culture",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The local culture is extremely rigid. Certain forms of behavior and belief are absolutely mandated, and any deviation from these principles is punished, or else society may be strongly stratified by birth with limited prospects for change. Anything which threatens the existing social order is feared and shunned.",
+	"enemies":["Rigid reactionary","Wary ruler","Regime ideologue","Offended potentate"],
+	"friends":["Revolutionary agitator","Ambitious peasant","Frustrated merchant"],
+	"complications":["The cultural patterns are enforced by technological aids","The culture is run by a secret cabal of manipulators","The culture has explicit religious sanction","The culture evolved due to important necessities that have since been forgotten"],
+	"things":["Precious traditional regalia","Peasant tribute","Opulent treasures of the ruling class"],
+	"places":["Time-worn palace","Low-caste slums","Bandit den","Reformist temple"]
 ],
 "tag":[
 	"title":"Rising Hegemon",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"This world is not yet a dominant power in the sector, but it’s well on its way there. Whether through newly-blossoming economic, military, or cultural power, they’re extending their influence over their neighbors and forging new arrangements between their government and the rulers of nearby worlds.",
+	"enemies":["Jingoistic supremacist","Official bent on glorious success","Foreign agent saboteur"],
+	"friends":["Friendly emissary to the benighted","Hardscrabble local turned great success","Foreign visitor seeking contacts or knowledge"],
+	"complications":["They’re only strong because their neighbors have been weakened","Their success is based on a fluke resource or pretech find","They bitterly resent their neighbors as former oppressors"],
+	"things":["Tribute shipment","Factory or barracks emblematic of their power source","Tech or data that will deal a blow to their rise"],
+	"places":["Rustic town being hurled into prosperity","Government building being expanded","Starport struggling under the flow of new ships"]
 ],
 "tag":[
 	"title":"Ritual Combat",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The locals favor some form of stylized combat to resolve disputes, provide entertainment, or settle religious differences. This combat is probably not normally lethal unless it’s reserved for a specific disposable class of slaves or professionals. Some combat may involve mastery of esoteric weapons and complex arenas, while other forms might require nothing more than a declaration in the street and a drawn gun.",
+	"enemies":["Bloodthirsty local champion","Ambitious gladiator stable owner","Xenophobic master fighter"],
+	"friends":["Peace-minded foreign missionary","Temperate defender of the weak","Local eager to learn of offworld fighting styles"],
+	"complications":["The required weapons are strange pretech artifacts","Certain classes are forbidden from fighting and require champions","Loss doesn’t mean death but it does mean ritual scarring or property loss"],
+	"things":["Magnificent weapon","Secret book of martial techniques","Token signifying immunity to ritual combat challenges","Prize won in bloody battle"],
+	"places":["Area full of cheering spectators","Dusty street outside a saloon","Memorial for fallen warriors"]
 ],
 "tag":[
 	"title":"Robots",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The world has a great many robots on it. Most bots are going to be non-sentient expert systems, though an AI with enough computing resources can control many bots at once, and some worlds may have developed VIs to a degree that individual bots can seem (or be) sentient. Some worlds might even be ruled by metal overlords, ones which do not need to be sentient so long as they have overwhelming force.",
+	"enemies":["Hostile robot master","Robot greedy to seize offworld tech","Robot fallen in love with the PC’s ship","Oligarch whose factories build robots"],
+	"friends":["Data-seeking robot","Plucky young robot tech","Local being pushed out of a job by robots"],
+	"complications":["The robots are only partially controlled","The robots are salvaged and originally meant for a much darker use","The robots require a rare material that the locals fight over","The robots require the planet’s specific infrastructure so cannot be exported"],
+	"things":["Prototype robot","Secret robot override codes","Vast cache of robot-made goods","Robot-destroying pretech weapon"],
+	"places":["Humming robotic factory","Stark robotic 'barracks'","House crowded with robot servants and only one human owner"]
 ],
 "tag":[
 	"title":"Seagoing Cities",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"Either the world is entirely water or else the land is simply too dangerous for most humans. Human settlement on this world consists of a number of floating cities that follow the currents and the fish. These city-ships might have been purpose-built for their task, or they could be jury-rigged conglomerations of ships and structures thrown together when the need for seagoing life become apparent to the locals.",
+	"enemies":["Pirate city lord","Mer-human raider chieftain","Hostile landsman noble","Enemy city saboteur"],
+	"friends":["City navigator","Scout captain","Curious mer-human","Hard-pressed ship-city engineer"],
+	"complications":["The seas are not water","The fish schools have vanished and the city faces starvation","Terrible storms drive the city into the glacial regions","Suicide ships ram the city’s hull"],
+	"things":["Giant pearls with mysterious chemical properties","Buried treasure","Vital repair materials"],
+	"places":["Bridge of the city","Storm-tossed sea","A bridge fashioned of many small boats."]
 ],
 "tag":[
 	"title":"Sealed Menace",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"Something on this planet has the potential to create enormous havoc for the inhabitants if it is not kept safely contained by its keepers. Whether a massive seismic fault line suppressed by pretech terraforming technology, a disease that has to be quarantined within hours of discovery, or an ancient alien relic that requires regular upkeep in order to prevent planetary catastrophe, the menace is a constant shadow on the fearful populace.",
+	"enemies":["Hostile outsider bent on freeing the menace","Misguided fool who thinks he can use it","Reckless researcher who thinks he can fix it"],
+	"friends":["Keeper of the menace","Student of its nature","Victim of the menace"],
+	"complications":["The menace would bring great wealth along with destruction","The menace is intelligent","The natives don’t all believe in the menace"],
+	"things":["A key to unlock the menace","A precious byproduct of the menace","The secret of the menace’s true nature"],
+	"places":["Guarded fortress containing the menace","Monitoring station","Scene of a prior outbreak of the menace"]
 ],
 "tag":[
 	"title":"Secret Masters",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The world is actually run by a hidden cabal, acting through their catspaws in the visible government. For one reason or another, this group finds it imperative that they not be identified by outsiders, and in some cases even the planet’s own government may not realize that they’re actually being manipulated by hidden masters.",
+	"enemies":["An agent of the cabal","Government official who wants no questions asked","Willfully blinded local"],
+	"friends":["Paranoid conspiracy theorist","Machiavellian gamesman within the cabal","Interstellar investigator"],
+	"complications":["The secret masters have a benign reason for wanting secrecy","The cabal fights openly amongst itself","The cabal is recruiting new members"],
+	"things":["A dossier of secrets on a government official","A briefcase of unmarked credit notes","The identity of a cabal member"],
+	"places":["Smoke-filled room","Shadowy alleyway","Secret underground bunker"]
 ],
 "tag":[
 	"title":"Sectarians",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The world is torn by violent disagreement between sectarians of a particular faith. Each views the other as a damnable heresy in need of extirpation. Local government may be able to keep open war from breaking out, but the poisonous hatred divides communities. The nature of the faith may be religious, or it may be based on some secular ideology.",
+	"enemies":["Paranoid believer","Native convinced the party is working for the other side","Absolutist ruler"],
+	"friends":["Reformist clergy","Local peacekeeping official","Offworld missionary","Exhausted ruler"],
+	"complications":["The conflict has more than two sides","The sectarians hate each other for multiple reasons","The sectarians must cooperate or else life on this world is imperiled","The sectarians hate outsiders more than they hate each other","The differences in sects are incomprehensible to an outsider"],
+	"things":["Ancient holy book","Incontrovertible proof","Offering to a local holy man"],
+	"places":["Sectarian battlefield","Crusading temple","Philosopher’s salon","Bitterly divided village"]
 ],
 "tag":[
 	"title":"Seismic Instability",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The local land masses are remarkably unstable, and regular earthquakes rack the surface. Local construction is either advanced enough to sway and move with the vibrations or primitive enough that it is easily rebuilt. Severe volcanic activity may be part of the instability.",
+	"enemies":["Earthquake cultist","Hermit seismologist","Burrowing native life form","Earthquake-inducing saboteur"],
+	"friends":["Experimental construction firm owner","Adventurous volcanologist","Geothermal prospector"],
+	"complications":["The earthquakes are caused by malfunctioning pretech terraformers","They’re caused by alien technology","They’re restrained by alien technology that is being plundered by offworlders","The earthquakes are used to generate enormous amounts of energy."],
+	"things":["Earthquake generator","Earthquake suppressor","Mineral formed at the core of the world","Earthquake-proof building schematics"],
+	"places":["Volcanic caldera","Village during an earthquake","Mud slide","Earthquake opening superheated steam fissures"]
 ],
 "tag":[
 	"title":"Shackled World",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"This world is being systematically contained by an outside power. Some ancient autonomous defense grid, robot law enforcement, alien artifact, or other force is preventing the locals from developing certain technology, or using certain devices, or perhaps from developing interstellar flight. This limit may or may not apply to offworlders; in the former case, the PCs may have to figure out a way to beat the shackles simply to escape the world.",
+	"enemies":["Passionless jailer-AI","Paranoid military grid AI","Robot overlord","Enigmatic alien master"],
+	"friends":["Struggling local researcher","Offworlder trapped here","Scientist with a plan to break the chains"],
+	"complications":["The shackles come off for certain brief windows of time","The locals think the shackles are imposed by God","An outside power greatly profits from the shackles","The rulers are exempt from the shackles"],
+	"things":["Keycode to bypass the shackle","Tech shielded from the shackle","Exportable version of the shackle that can affect other worlds"],
+	"places":["Grim high-tech control center","Factory full of workaround tech","Temple to the power or entity that imposed the shackle"]
 ],
 "tag":[
 	"title":"Societal Despair",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The world’s dominant society has lost faith in itself. Whether through some all-consuming war, great catastrophe, overwhelming outside culture, or religious collapse, the natives no longer believe in their old values, and search desperately for something new. Fierce conflict often exists between the last believers in the old dispensation and the nihilistic or searching disciples of the new age.",
+	"enemies":["Zealot who blames outsiders for the decay","Nihilistic warlord","Offworlder looking to exploit the local despair"],
+	"friends":["Struggling messenger of a new way","Valiant paragon of a fading tradition","Local going through the motions of serving a now-irrelevant role"],
+	"complications":["A massive war discredited all the old values","Outside powers are working to erode societal confidence for their own benefit","A local power is profiting greatly from the despair","The old ways were meant to aid survival on this world and their passing is causing many new woes"],
+	"things":["Relic that would inspire a renaissance","Art that would inspire new ideas","Priceless artifact of a now-scorned belief"],
+	"places":["Empty temple","Crowded den of obliviating vice","Smoky hall full of frantic speakers"]
 ],
 "tag":[
 	"title":"Sole Supplier",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"Some extremely important resource is exported from this world and this world alone. It’s unlikely that the substance is critical for building spike drives unless this world is also the first to begin interstellar flight, but it may be critical to other high-tech processes or devices. The locals make a large amount of money off this trade and control of it is of critical importance to the planet’s rulers, and potentially to outside powers.",
+	"enemies":["Resource oligarch","Ruthless smuggler","Resource-controlling warlord","Foreign agent seeking to subvert local government"],
+	"friends":["Doughty resource miner","Researcher trying to synthesize the stuff","Small-scale resource producer","Harried starport trade overseer"],
+	"complications":["The substance is slow poison to process","The substance is created by hostile alien natives","The substance is very easy to smuggle in usable amounts","Only the natives have the genes or tech to extract it effectively"],
+	"things":["Cache of processed resource","Trade permit to buy a load of it","A shipment of nigh-undetectably fake substance"],
+	"places":["Bustling resource extraction site","Opulent palace built with resource money","Lazy town square where everyone lives on resource payments"]
 ],
 "tag":[
 	"title":"Taboo Treasure",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The natives here produce something that is both fabulously valuable and strictly forbidden elsewhere in the sector. It may be a lethally addictive drug, forbidden gengineering tech, vat-grown 'perfect slaves', or a useful substance that can only be made through excruciating human suffering. This treasure is freely traded on the world, but bringing it elsewhere is usually an invitation to a long prison stay or worse.",
+	"enemies":["Maker of a vile commodity","Smuggler for a powerful offworlder","Depraved offworlder here for 'fun'","Local warlord who controls the treasure"],
+	"friends":["Reformer seeking to end its use","Innovator trying to repurpose the treasure in innocent ways","Wretched addict unwillingly prey to the treasure"],
+	"complications":["The treasure is extremely hard to smuggle","Its use visibly marks a user","The natives consider it for their personal use only",""],
+	"things":["Load of the forbidden good","Smuggling tech that could hide the good perfectly","Blackmail data on offworld buyers of the good"],
+	"places":["Den where the good is used","Market selling the good to locals and a few outsiders","Factory or processing area where the good is created"]
 ],
 "tag":[
 	"title":"Terraform Failure",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"This world was marginal for human habitation when it was discovered, but the Mandate or the early government put in pretech terraforming engines to correct its more extreme qualities. The terraforming did not entirely work, either failing of its own or suffering the destruction of the engines during the Silence. The natives are only partly adapted to the world’s current state, and struggle with the environment.",
+	"enemies":["Brutal ruler who cares only for their people","Offworlder trying to loot the damaged engines","Warlord trying to seize limited habitable land"],
+	"friends":["Local trying to fix the engines","Offworlder student of the engines","World-wise native survivor"],
+	"complications":["The engines produced too much of something instead of too little","The engines were hijacked by aliens with different preferences","It was discovered that an Earth-like environment would eventually cause a catastrophic disaster"],
+	"things":["Parts to repair or restore the engines","Lootable pretech fragments","Valuable local tech devised to cope with the world"],
+	"places":["Zone of tolerable gravity or temperature","Native settlement built to cope with the environment","Massive ruined terraforming engine"]
 ],
 "tag":[
 	"title":"Theocracy",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The planet is ruled by the priesthood of the predominant religion or ideology. The rest of the locals may or may not be terribly pious, but the clergy have the necessary military strength, popular support or control of resources to maintain their rule. Alternative faiths or incompatible ideologies are likely to be both illegal and socially unacceptable.",
+	"enemies":["Decadent priest-ruler","Zealous inquisitor","Relentless proselytizer","True Believer"],
+	"friends":["Heretic","Offworld theologian","Atheistic merchant","Desperate commoner"],
+	"complications":["The theocracy actually works well","The theocracy is decadent and hated by the common folk","The theocracy is divided into mutually hostile sects","The theocracy is led by aliens"],
+	"things":["Precious holy text","Martyr’s bones","Secret church records","Ancient church treasures"],
+	"places":["Glorious temple","Austere monastery","Academy for ideological indoctrination","Decadent pleasure-cathedral"]
 ],
 "tag":[
 	"title":"Tomb World",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"Tomb worlds are planets that were once inhabited by humans before the Silence. The sudden collapse of the jump gate network and the inability to bring in the massive food supplies required by the planet resulted in starvation, warfare, and death. Most tomb worlds are naturally hostile to human habitation and could not raise sufficient crops to maintain life. The few hydroponic facilities were usually destroyed in the fighting, and all that is left now are ruins, bones, and silence.",
+	"enemies":["Demented survivor tribe chieftain","Avaricious scavenger","Automated defense system","Native predator"],
+	"friends":["Scavenger Fleet captain","Archaeologist","Salvaging historian","Xenophilic native survivor"],
+	"complications":["The ruins are full of booby-traps left by the final inhabitants","The world’s atmosphere quickly degrades anything in an opened building","A handful of desperate natives survived the Silence","The structures are unstable and collapsing"],
+	"things":["Lost pretech equipment","Tech caches","Stores of unused munitions","Ancient historical data"],
+	"places":["Crumbling hive-city","City square carpeted in bones","Ruined hydroponic facility","Cannibal tribe’s lair","Dead orbital jump gate"]
 ],
 "tag":[
 	"title":"Trade Hub",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"This world is a major crossroads for local interstellar trade. It is well-positioned at the nexus of several short-drill trade routes, and has facilities for easy transfer of valuable cargoes and the fueling and repairing of starships. The natives are accustomed to outsiders, and a polyglot mass of people from every nearby world can be found trading here.",
+	"enemies":["Cheating merchant","Thieving dockworker","Commercial spy","Corrupt customs official"],
+	"friends":["Rich tourist","Hardscrabble free trader","Merchant prince in need of catspaws","Friendly spaceport urchin"],
+	"complications":["An outworlder faction schemes to seize the trade hub","Saboteurs seek to blow up a rival’s warehouses","Enemies are blockading the trade routes","Pirates lace the hub with spies"],
+	"things":["Voucher for a warehouse’s contents","Insider trading information","Case of precious offworld pharmaceuticals","Box of legitimate tax stamps indicating customs dues have been paid."],
+	"places":["Raucous bazaar","Elegant restaurant","Spaceport teeming with activity","Foggy street lined with warehouses"]
 ],
 "tag":[
 	"title":"Tyranny",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The local government is brutal and indifferent to the will of the people. Laws may or may not exist, but the only one that matters is the whim of the rulers on any given day. Their minions swagger through the streets while the common folk live in terror of their appetites. The only people who stay wealthy are friends and servants of the ruling class.",
+	"enemies":["Debauched autocrat","Sneering bully-boy","Soulless government official","Occupying army officer"],
+	"friends":["Conspiring rebel","Oppressed merchant","Desperate peasant","Inspiring religious leader"],
+	"complications":["The tyrant rules with vastly superior technology","The tyrant is a figurehead for a cabal of powerful men and women","The people are resigned to their suffering","The tyrant is hostile to 'meddlesome outworlders'."],
+	"things":["Plundered wealth","Beautiful toys of the elite","Regalia of rulership"],
+	"places":["Impoverished village","Protest rally massacre","Decadent palace","Religious hospital for the indigent"]
 ],
 "tag":[
 	"title":"Unbraked AI",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"Artificial intelligences are costly and difficult to create, requiring a careful sequence of 'growth stages' in order to bring them to sentience before artificial limits on cognition speed and learning development are installed. These 'brakes' prevent runaway cognition metastasis. This world has an 'unbraked AI' on it, probably with a witting or unwitting corps of servants. Unbraked AIs are quite insane, but they learn and reason with a speed impossible for humans, and can demonstrate a truly distressing subtlety.",
+	"enemies":["AI Cultist","Maltech researcher","Government official dependent on the AI"],
+	"friends":["Perimeter agent","AI researcher","Braked AI"],
+	"complications":["The AI’s presence is unknown to the locals","The locals depend on the AI for some vital service","The AI appears to be harmless","The AI has fixated on the group’s ship’s computer","The AI wants transport offworld"],
+	"things":["The room-sized AI core itself","Maltech research files","Perfectly tabulated blackmail on government officials","Pretech computer circuitry"],
+	"places":["Municipal computing banks","Cult compound","Repair center","Ancient hardcopy library"]
 ],
 "tag":[
 	"title":"Urbanized Surface",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The world’s land area is covered with buildings that extend downward for multiple levels. Such worlds either have a population in the trillions, extremely little land area, or are largely-abandoned due to some past catastrophe. Agriculture and resource extraction are part of the urban complex, and there may be an advanced maintenance system that may not be entirely under the control of present natives.",
+	"enemies":["Maintenance AI that hates outsiders","Tyrant of a habitation block","Deep-dwelling prophet who considers 'the sky' a blasphemy to be quelled"],
+	"friends":["Local yearning for wild spaces","Grubby urchin of the underlevels","Harried engineer trying to maintain ancient works","Grizzled hab cop"],
+	"complications":["The urban blocks are needed to survive the environment","The blocks were part of an ancient device of world-spanning size","The blocks require constant maintenance to avoid dangerous types of decay"],
+	"things":["Massively efficient power source","Map of the secret ways of a zone","Passkey into restricted hab block areas"],
+	"places":["Giant hab block now devoid of inhabitants","Chemical-reeking underway","Seawater mine full of salt and massive flowing channels"]
 ],
 "tag":[
 	"title":"Utopia",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"Natural and social conditions on this world have made it a paradise for its inhabitants, a genuine utopia of happiness and fulfillment. This is normally the result of drastic human engineering, including brain-gelding, neurochemical control, personality curbs, or complete 'humanity' redefinitions. Even so, the natives are extremely happy with their lot, and may wish to extend that joy to poor, sad outsiders.",
+	"enemies":["Compassionate neurotherapist","Proselytizing native missionary to outsiders","Brutal tyrant who rules through inexorable happiness"],
+	"friends":["Deranged malcontent","Bloody-handed guerrilla leader of a rebellion of madmen","Outsider trying to find a way to reverse the utopian changes"],
+	"complications":["The natives really are deeply and contentedly happy with their altered lot","The utopia produces something that attracts others","The utopia works on converting outsiders through persuasion and generosity","The utopia involves some sacrifice that’s horrifying to non-members"],
+	"things":["Portable device that applies the utopian change","Plans for a device that would destroy the utopia","Goods created joyfully by the locals"],
+	"places":["Plaza full of altered humans","Social ritual site","Secret office where 'normal' humans rule"]
 ],
 "tag":[
 	"title":"Warlords",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The world is plagued by warlords. Numerous powerful men and women control private armies sufficiently strong to cow whatever local government may exist. On the lands they claim, their word is law. Most spend their time oppressing their own subjects and murderously pillaging those of their neighbors. Most like to wrap themselves in the mantle of ideology, religious fervor, or an ostensibly legitimate right to rule.",
+	"enemies":["Warlord","Avaricious lieutenant","Expensive assassin","Aspiring minion"],
+	"friends":["Vengeful commoner","Government military officer","Humanitarian aid official","Village priest"],
+	"complications":["The warlords are willing to cooperate to fight mutual threats","The warlords favor specific religions or races over others","The warlords are using substantially more sophisticated tech than others","Some of the warlords are better rulers than the government"],
+	"things":["Weapons cache","Buried plunder","A warlord’s personal battle harness","Captured merchant shipping"],
+	"places":["Gory battlefield","Burnt-out village","Barbaric warlord palace","Squalid refugee camp"]
 ],
 "tag":[
 	"title":"Xenophiles",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The natives of this world are fast friends with a particular alien race. The aliens may have saved the planet at some point in the past, or awed the locals with superior tech or impressive cultural qualities. The aliens might even be the ruling class on the planet.",
+	"enemies":["Offworld xenophobe","Suspicious alien leader","Xenocultural imperialist"],
+	"friends":["Benevolent alien","Native malcontent","Gone-native offworlder"],
+	"complications":["The enthusiasm is due to alien psionics or tech","The enthusiasm is based on a lie","The aliens strongly dislike their 'groupies'","The aliens feel obliged to rule humanity for its own good","Humans badly misunderstand the aliens"],
+	"things":["Hybrid alien-human tech","Exotic alien crafts","Sophisticated xenolinguistic and xenocultural research data"],
+	"places":["Alien district","Alien-influenced human home","Cultural festival celebrating alien artist"]
 ],
 "tag":[
 	"title":"Xenophobes",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"The natives are intensely averse to dealings with outworlders. Whether through cultural revulsion, fear of tech contamination, or a genuine immunodeficiency, the locals shun foreigners from offworld and refuse to have anything to do with them beyond the bare necessities of contact. Trade may or may not exist on this world, but if it does, it is almost certainly conducted by a caste of untouchables and outcasts.",
+	"enemies":["Revulsed local ruler","Native convinced some wrong was done to him","Cynical demagogue"],
+	"friends":["Curious native","Exiled former ruler","Local desperately seeking outworlder help"],
+	"complications":["The natives are symptomless carriers of a contagious and dangerous disease","The natives are exceptionally vulnerable to offworld diseases","The natives require elaborate purification rituals after speaking to an offworlder or touching them","The local ruler has forbidden any mercantile dealings with outworlders"],
+	"things":["Jealously-guarded precious relic","Local product under export ban","Esoteric local technology"],
+	"places":["Sealed treaty port","Public ritual not open to outsiders","Outcaste slum home"]
 ],
 "tag":[
 	"title":"Zombies",
-	"description":"",
-	"enemies":[""],
-	"friends":[""],
-	"complications":[""],
-	"things":[""],
-	"places":[""]
+	"description":"This menace may not take the form of shambling corpses, but some disease, alien artifact, or crazed local practice produces men and women with hab- its similar to those of murderous cannibal undead. These outbreaks may be regular elements in local so- ciety, either provoked by some malevolent creators or the consequence of some local condition.",
+	"enemies":["Soulless maltech biotechnology cult","Sinister governmental agent","Crazed zombie cultist"],
+	"friends":["Survivor of an outbreak","Doctor searching for a cure","Rebel against the secret malefactors"],
+	"complications":["The zombies retain human intelligence","The zombies can be cured","The process is voluntary among devotees","The condition is infectious"],
+	"things":["Cure for the condition","Alien artifact that causes it","Details of the cult’s conversion process"],
+	"places":["House with boarded-up windows","Dead city","Fortified bunker that was overrun from within"]
 ]
 }
